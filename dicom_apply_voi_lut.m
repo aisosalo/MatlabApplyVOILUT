@@ -2,7 +2,7 @@ function arr_out = dicom_apply_voi_lut(arr_in, nfo, index)
 %DICOM_APPLY_VOI_LUT Apply a VOI lookup table or windowing operation to
 % image data from a compliant DICOM file
 %
-% INPUTS
+% INPUTS:
 %    arr_in     image data from a compliant DICOM file
 %    nfo        metadata from a compliant DICOM file
 %    index      the index of the view
