@@ -1,6 +1,6 @@
 # Apply VOI LUT function for Matlab
 
-This repository contains a Matlab function to apply value of interest (VOI) lookup table or to perform windowing operation to image data from a compliant DICOM file. The function here is adopted from the [_pydicom_](https://pydicom.github.io/pydicom/stable/reference/generated/pydicom.pixel_data_handlers.util.html#pydicom.pixel_data_handlers.util.apply_voi_lut) library function `apply_voi_lut`.
+This repository contains a Matlab function to apply value of interest (VOI) lookup table or to perform windowing operation to image data from a compliant DICOM file. The function here is adopted from the _pydicom_ library function [apply_voi_lut](https://pydicom.github.io/pydicom/stable/reference/generated/pydicom.pixel_data_handlers.util.html#pydicom.pixel_data_handlers.util.apply_voi_lut).
 
 ## Dependencies
 
